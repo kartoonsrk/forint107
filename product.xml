@@ -1,0 +1,65 @@
+<product>
+  <car>
+    <desc>
+    An entirely new concept of sports car. More efficient – for example due to intelligent lightweight construction with carbon and aerodynamic design. More sustainable – with highly efficient BMW eDrive technology and recyclable materials in the interior.
+    Without forfeiting dynamics and its sporting appearance. No compromises, but instead the optimum combination of driving pleasure and responsibility. The BMW i8 is a plug-in-hybrid that brings together the advantages of innovate electric
+    motor and combustion engine technologies. The result is an extraordinary driving experience – with extremely low consumption and low emissions.
+  </desc>
+  <bmf>
+    11,899,000 baht
+  </bmf>
+  <af>
+    4.4
+  </af>
+  <cc>
+    47.6
+  </cc>
+  <co>
+    49.0
+  </co>
+  <er>
+    37
+  </er>
+</car>
+  <car2>
+    <desc>
+      The C-Class design has always had aesthetic links with our large Saloons. The same is true today. The new C-Class Saloon is a resolute expression of the current Mercedes-Benz style that is also evident in the S-Class.
+    </desc>
+    <bmf>
+      5,190,000 baht
+    </bmf>
+    <af>
+      3.2
+    </af>
+    <cc>
+      51.6
+    </cc>
+    <co>
+      40.0
+    </co>
+    <er>
+      29
+    </er>
+  </car2>
+
+  <car3>
+    <desc>
+      The C-Class design has always had aesthetic links with our large Saloons. The same is true today. The new C-Class Saloon is a resolute expression of the current Mercedes-Benz style that is also evident in the S-Class.
+    </desc>
+    <bmf>
+      8,299,000 Baht
+    </bmf>
+    <af>
+      317 (431)/5,500–7,300
+    </af>
+    <cc>
+      4.3 [4.1]
+    </cc>
+    <co>
+      204 [194]
+    </co>
+    <er>
+      204 [194]
+    </er>
+  </car3>
+</product>
